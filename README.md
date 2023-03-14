@@ -1,3 +1,16 @@
+# SOC Checker
+
+A simple script that helps SOC Manager to automate a scan and choose an attack from the script to simulate an attack
+to keep team members alerted. 
+
+# Scanning Tools 
+netdiscover
+
+# Attack Tools 
+Metaspoilt Brute Force Attack,
+Hping3 DOS Ping Flood Attack with IP Spoof,
+Responder MITM LLMNR Attack.
+
 # 💫 About Me:
 I'm currently working on Python Scripting.<br>I'm looking for help with my Bash Scripting to perfect it. <br>I'm currently learning more about Cybersecurity and <br>looking to invest time to be better at scripting for full automation. <br>Fun fact: I enjoy the challenge of scripting and find it fun. 
 
